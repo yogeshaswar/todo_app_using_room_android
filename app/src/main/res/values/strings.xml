@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoProRoom</string>
+    <string name="btn_text">ADD TASK</string>
+    <string name="checkbox_text">High Priority</string>
+    <string name="heading_text">All Task</string>
+    <string name="hint_text">Enter Task</string>
+    <string name="img_description">Image Icon</string>
+</resources>
